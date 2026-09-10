@@ -1,0 +1,15 @@
+{
+  "name": "genpark-mel-filterbank-log-spectrogram-skill",
+  "version": "1.0.0",
+  "description": "Mel-scale triangular filterbank spectral analyzer mapping linear frequency spectra to perceptual log-mel energies for speech AI.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "mel-spectrogram",
+    "speech-processing",
+    "audio-dsp",
+    "filterbank"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
